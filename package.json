@@ -45,5 +45,9 @@
     "tsup": "^8.0.0",
     "typedoc": "^0.25.3",
     "typescript": "^5.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dirheimerb/colorsanmore.git"
   }
 }
